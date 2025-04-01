@@ -4,7 +4,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # File path for cost of carry data
-local_dir_base = '/Users/bencebaumann/Desktop/'
+local_dir_base = ''amendme''
 cost_of_carry_file = local_dir_base + 'Thesis_Risk/cost_of_carry.csv'
 
 # Read cost of carry data
