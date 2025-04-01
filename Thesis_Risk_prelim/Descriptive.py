@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Define file paths
-local_dir_base = '/Users/bencebaumann/Desktop/'
+local_dir_base = 'amendme'
 file_path = local_dir_base + 'Thesis_Risk/prices.xlsx'
 cost_of_carry_file = 'cost_of_carry.csv'
 
