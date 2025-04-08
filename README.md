@@ -28,8 +28,8 @@ Publicly available data, such as natural gas export/import volumes sourced from 
 
 
 **3. Dependencies**
-Ensure that all required Python libraries are installed. You can install them using the following command:
-bash
+Ensure that all required Python libraries are installed. You can install them using the following bash command:
+
 
 **pip install pandas numpy matplotlib seaborn scipy openpyxl**
 
