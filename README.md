@@ -15,7 +15,7 @@ are handled via pip, and the IDE has been configured with a proper Python interp
 I used PyCharm 2021.3 (Community Edition), and Python 3.9 trough a venv, hence I recommend
 to use a similar setup to run the scripts. 
 
-You may install all dependencies from Terminal via the following command once pip is downloaded:
+You may install all dependencies from Terminal via the following command once pip (https://pypi.org/project/pip/) is downloaded:
 
 
 
