@@ -18,6 +18,7 @@ Folder Structure: A predefined directory layout to organize input data and outpu
 
 **1. Configuration**
 The scripts rely on a config.ini file for configuration. Update the local_dir_base variable in this file to match the location of the repository on your local machine.
+
 **2. Data Requirements**
 Certain proprietary datasets are excluded from this repository:
 Dutch TTF Rolling Futures Prices: Contained in prices.xlsx.
