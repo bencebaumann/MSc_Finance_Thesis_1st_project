@@ -16,7 +16,10 @@ I used PyCharm 2021.3 (Community Edition), and Python 3.9 trough a venv, hence I
 to use a similar setup to run the scripts. 
 
 You may install all dependencies from Terminal via the following command once pip is downloaded:
-pip install pandas numpy matplotlib seaborn scipy openpyxl
+
+
+
+**pip install pandas numpy matplotlib seaborn scipy openpyxl**
 
 I would like to flag that these scripts are my initial steps in programming, hence I strongly 
 advise agaisnt implementing any of the solutions in production level code.
