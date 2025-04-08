@@ -41,7 +41,6 @@ Clone this repository to your local machine.
 Update local_dir_base in config.ini with the path to your local folder.
 Place the source data files (prices.xlsx and cost_of_carry.csv) in their respective directories within the folder structure.
 Run the scripts from your IDE or terminal to replicate the calculations and plots.
-Folder Structure
 
 
 These scripts represent my initial steps in programming, so they are not optimized for production-level use.
