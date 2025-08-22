@@ -1,4 +1,4 @@
-**MSc Finance Thesis Project**  (Prelim)
+**MSc Finance Thesis Project** 
 
 This repository contains the scripts and folder structure utilized for calculations and plotting as part of my MSc Finance Thesis.
 Below, you will find detailed instructions on how to configure and use the repository effectively.
