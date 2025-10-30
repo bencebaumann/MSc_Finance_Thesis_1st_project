@@ -51,3 +51,5 @@ exposure profiles. VaR (and consequently CVaR) has been calculated via parametri
 These scripts represent my initial steps in programming, so they are not optimized for production-level use.
 For any questions or issues, feel free to reach out via email.
 Thank you for exploring my MSc Finance Thesis project!
+
+**Thesis itself available (in Hungarian) as Z5B2DG_SZD.pdf, been graded 95/100**
